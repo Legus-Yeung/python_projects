@@ -4,7 +4,9 @@ To use these scripts, you may use an online compiler on a separate tab/window, a
 
 For example: https://www.programiz.com/python-programming/online-compiler/
 
-I have currently created a CPP Caculator script to calculate your redemption value for flight or hotel bookings.
+Script 1: CPP Caculator script to calculate your redemption value for flight or hotel bookings.
+
+Script 2: CSV to JSON script to export certain columns to a json file.
 
 There will be more scripts uploaded to this repository.
 
